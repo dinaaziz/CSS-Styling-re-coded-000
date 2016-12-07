@@ -1,0 +1,33 @@
+p{
+  font-size: 1em;
+  line-height: 1.5em;
+}
+figcaption
+{
+/*  font-weight: normal;
+  font-size: 0.25em;
+  line-height: 1.5em;
+  font-family:sans-serif;*/
+  font: normal 0.75em/1.5em sans-serif, "New Times Roman";
+  color:green;
+  text-align: right;
+}
+.title-text{
+  font: bold 2.6em serif;
+  color: aqua;
+  text-shadow: 0 2px 3px #000;
+}
+#logo h2{
+  background:aqua;
+}
+#details a:link, #details a:visited{
+color:black;
+text-decoration: none;
+}
+#details a:hover {
+  color: pink;
+  text-decoration: underline;
+}
+#details a:active {
+  color: red;
+}
